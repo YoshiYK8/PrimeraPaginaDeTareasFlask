@@ -1,5 +1,14 @@
 body{
     margin: 0;
     font-family: sans-serif;
+    
+}
+.container{
+    text-align: center;
+    
 
+}
+.container table{
+    margin: auto;
+    margin-bottom: 20px;
 }
